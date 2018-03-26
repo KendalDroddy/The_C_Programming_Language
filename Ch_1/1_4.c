@@ -15,7 +15,7 @@ int main()
 
 	fahr = lower;
 
-	printf("\nTemperature Conversion Table\n");
+	printf("\nCelsius-Fahrenheit Table\n");
 	printf("----------------------------\n");
 
 	while(fahr <= upper)
